@@ -65,8 +65,9 @@ Model achieves strong classification performance:
 Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/bug-intelligence-system.git
+git clone https://github.com/codewithrahul18/bug-intelligence-system.git
 cd bug-intelligence-system
+
 ```
 
 Install dependencies:
